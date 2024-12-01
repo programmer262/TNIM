@@ -15,7 +15,7 @@
         then you can use 
 </p>
 Some errors you could be encoutering :
-1) Permission Denied -> Solution : pip install PyAudio
+1) Permission Denied -> Solution : pip install PyAudio<br>
 2) Libraries required to run the code : 
 
 <!-- Achraf Chahin -->
