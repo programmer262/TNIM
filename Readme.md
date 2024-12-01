@@ -10,8 +10,7 @@
         this activate the virtual enviromment so all the libraries would be used without any problem
         after activating the library if you wanna use jupyter notebook or launch the server of jupyter notebook 
         you should use the following code:
-        <code>python -m notebook or jupyter notebook
-        </code>
+        <code>python -m notebook or jupyter notebook</code>
         this will launch the server automatically like it would with anaconda prompt 
         then you can use 
 </p>
