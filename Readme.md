@@ -15,7 +15,16 @@
         then you can use 
 </p>
 Some errors you could be encoutering :
-1) Permission Denied -> Solution : pip install PyAudio<br>
-2) Libraries required to run the code : 
+<ol>
+<li>Permission Denied -> Solution : pip install PyAudio</li><br>
+<li>Libraries required to run the code :<ul>
+        <li>Pyside6</li>
+        <li>Numpy</li>
+        <li>Matplotlib</li>
+        <li>Pydub</li>
+        <li>scikit-image</li>
+        <li>Pillow</li>
+</ul></li> 
+</ol>
 
 <!-- Achraf Chahin -->
