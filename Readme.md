@@ -26,5 +26,4 @@ Some errors you could be encoutering :
         <li>Pillow</li>
 </ul></li> 
 </ol>
-
-<!-- Achraf Chahin -->
+Achraf Chahin
